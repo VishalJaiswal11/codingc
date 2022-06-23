@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "ADDDAYS.C": "cpp",
+        "ADDMONTH.C": "cpp",
+        "ADDYEARS.C": "cpp",
+        "CMPDATE.C": "cpp",
+        "DATEFMT.C": "cpp",
+        "DIFFDAYS.C": "cpp",
+        "JULIAN.C": "cpp",
+        "LEAP.C": "cpp",
+        "MAIN.C": "cpp",
+        "SUBDAYS.C": "cpp",
+        "SUBYEAR.C": "cpp",
+        "SUBMONTH.C": "cpp",
+        "WEEKDAY.C": "cpp",
+        "VALID.C": "cpp",
+        "DIFFYMD.C": "cpp"
+    }
+}

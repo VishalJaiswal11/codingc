@@ -1,0 +1,2 @@
+void formDate(char *date,int y,int m,int d);
+void splitDate(char*date, int *y,int *m,int*d);
